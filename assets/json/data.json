@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "code": "\nRTO Code\n",
+    "location": "\nTN RTOs\n"
+  },
+  {
+    "id": 2,
+    "code": "\nTN01\n",
+    "location": "\n(CENTRAL)\n"
+  },
+  {
+    "id": 3,
+    "code": "\nTN02\n",
+    "location": "\nRTO,CHENNAI(NORTH WEST)\n"
+  },
+  {
+    "id": 4,
+    "code": "\nTN03\n",
+    "location": "\nRTO,CHENNAI(NORTH EAST)\n"
+  },
+  {
+    "id": 5,
+    "code": "\nTN04\n",
+    "location": "\nRTO, CHENNAI (EAST)\n"
+  },
+  {
+    "id": 6,
+    "code": "\nTN05\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE, CHENNAI (NORTH)\n"
+  },
+  {
+    "id": 7,
+    "code": "\nTN06\n",
+    "location": "\nRTO CHENNAI(SOUTH-EAST)\n"
+  },
+  {
+    "id": 8,
+    "code": "\nTN07\n",
+    "location": "\nRTO CHENNAI(SOUTH)\n"
+  },
+  {
+    "id": 9,
+    "code": "\nTN09\n",
+    "location": "\nRTO, Chennai West.\n"
+  },
+  {
+    "id": 10,
+    "code": "\nTN10\n",
+    "location": "\nRTO CHENNAI(SOUTH-WEST)\n"
+  },
+  {
+    "id": 11,
+    "code": "\nTN11\n",
+    "location": "\nRTO TAMBARAM\n"
+  },
+  {
+    "id": 12,
+    "code": "\nTN12\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE,\nPARUTHIPATTU\n"
+  },
+  {
+    "id": 13,
+    "code": "\nTN13\n",
+    "location": "\nRTO, AMBATTUR\n"
+  },
+  {
+    "id": 14,
+    "code": "\nTN14\n",
+    "location": "\nRTO, SHOLINGANALLUR\n"
+  },
+  {
+    "id": 15,
+    "code": "\nTN15\n",
+    "location": "\nRTO, Ulundurpet\n"
+  },
+  {
+    "id": 16,
+    "code": "\nTN15M\n",
+    "location": "\nRTO, Kalakurichi\n"
+  },
+  {
+    "id": 17,
+    "code": "\nTN16\n",
+    "location": "\nRTO, Tindivanam & Enforcement wing.\n"
+  },
+  {
+    "id": 18,
+    "code": "\nTN18\n",
+    "location": "\nRTO, REDHILLS\n"
+  },
+  {
+    "id": 19,
+    "code": "\nTN19\n",
+    "location": "\nRTO CHENGALPATTU\n"
+  },
+  {
+    "id": 20,
+    "code": "\nTN20\n",
+    "location": "\nRTO, THIRUVALLUR\n"
+  },
+  {
+    "id": 21,
+    "code": "\nTN21\n",
+    "location": "\nRTO KANCHIPURAM\n"
+  },
+  {
+    "id": 22,
+    "code": "\nTN22\n",
+    "location": "\nRTO MEENAMBAKKAM\n"
+  },
+  {
+    "id": 23,
+    "code": "\nTN23\n",
+    "location": "\nRegional Transport Office,\nVellore\n"
+  },
+  {
+    "id": 24,
+    "code": "\nTN24\n",
+    "location": "\nRTO KRISHNAGIRI\n"
+  },
+  {
+    "id": 25,
+    "code": "\nTN25\n",
+    "location": "\nRTO, Tiruvannamalai\n"
+  },
+  {
+    "id": 26,
+    "code": "\nTN28\n",
+    "location": "\nRTO NAMAKKAL (NORTH)\n"
+  },
+  {
+    "id": 27,
+    "code": "\nTN29\n",
+    "location": "\nRTO DHARMAPURI\n"
+  },
+  {
+    "id": 28,
+    "code": "\nTN30\n",
+    "location": "\nRTO,SALEM(WEST)\n"
+  },
+  {
+    "id": 29,
+    "code": "\nTN31\n",
+    "location": "\nRTO, Cuddalore\n"
+  },
+  {
+    "id": 30,
+    "code": "\nTN32\n",
+    "location": "\nRTO, Viluppuram\n"
+  },
+  {
+    "id": 31,
+    "code": "\nTN33\n",
+    "location": "\nRTO, ERODE EAST\n"
+  },
+  {
+    "id": 32,
+    "code": "\nTN34\n",
+    "location": "\nRTO Tiruchengode\n"
+  },
+  {
+    "id": 33,
+    "code": "\nTN36\n",
+    "location": "\nRTO GOBI\n"
+  },
+  {
+    "id": 34,
+    "code": "\nTN37\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE,\nCOIMBATORE (SOUTH)\n"
+  },
+  {
+    "id": 35,
+    "code": "\nTN38\n",
+    "location": "\nRTO COIMBATORE NORTH\n"
+  },
+  {
+    "id": 36,
+    "code": "\nTN39\n",
+    "location": "\nRegional Transport Office,\nTirupur North\n"
+  },
+  {
+    "id": 37,
+    "code": "\nTN40\n",
+    "location": "\nMETTUPALAYAM\n"
+  },
+  {
+    "id": 38,
+    "code": "\nTN41\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE,\nPOLLACHI\n"
+  },
+  {
+    "id": 39,
+    "code": "\nTN42\n",
+    "location": "\nRegional Transport Office,\nTirupur South\n"
+  },
+  {
+    "id": 40,
+    "code": "\nTN43\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE,\nOOTY\n"
+  },
+  {
+    "id": 41,
+    "code": "\nTN45\n",
+    "location": "\nRTO, TRICHY WEST\n"
+  },
+  {
+    "id": 42,
+    "code": "\nTN46\n",
+    "location": "\nRTO, PERAMBALUR\n"
+  },
+  {
+    "id": 43,
+    "code": "\nTN47\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE,\nKARUR\n"
+  },
+  {
+    "id": 44,
+    "code": "\nTN48\n",
+    "location": "\nRTO-SRIRANGAM\n"
+  },
+  {
+    "id": 45,
+    "code": "\nTN49\n",
+    "location": "\nRTO Thanjavur\n"
+  },
+  {
+    "id": 46,
+    "code": "\nTN50\n",
+    "location": "\nRTO Tiruvarur\n"
+  },
+  {
+    "id": 47,
+    "code": "\nTN51\n",
+    "location": "\nRTO Nagapattinam\n"
+  },
+  {
+    "id": 48,
+    "code": "\nTN52\n",
+    "location": "\nSANKAGIRI\n"
+  },
+  {
+    "id": 49,
+    "code": "\nTN54\n",
+    "location": "\nRTO,SALEM(EAST)\n"
+  },
+  {
+    "id": 50,
+    "code": "\nTN55\n",
+    "location": "\nRTO Pudukkottai\n"
+  },
+  {
+    "id": 51,
+    "code": "\nTN56\n",
+    "location": "\nRTO PERUNDURAI\n"
+  },
+  {
+    "id": 52,
+    "code": "\nTN57\n",
+    "location": "\nRTO Dindigul\n"
+  },
+  {
+    "id": 53,
+    "code": "\nTN58\n",
+    "location": "\nRTO Madurai(South)\n"
+  },
+  {
+    "id": 54,
+    "code": "\nTN59\n",
+    "location": "\nRTO Madurai (North)\n"
+  },
+  {
+    "id": 55,
+    "code": "\nTN60\n",
+    "location": "\nRTO Theni\n"
+  },
+  {
+    "id": 56,
+    "code": "\nTN61\n",
+    "location": "\nRTO ARIYALUR\n"
+  },
+  {
+    "id": 57,
+    "code": "\nTN63\n",
+    "location": "\nRTO. SIVAGANGAI\n"
+  },
+  {
+    "id": 58,
+    "code": "\nTN64\n",
+    "location": "\nRTO Madurai (Central)\n"
+  },
+  {
+    "id": 59,
+    "code": "\nTN65\n",
+    "location": "\nRTO, RAMANATHAPURAM\n"
+  },
+  {
+    "id": 60,
+    "code": "\nTN66\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE, COIMBATORE (CENTRAL)\n"
+  },
+  {
+    "id": 61,
+    "code": "\nTN67\n",
+    "location": "\nRTO, VIRUDHUNAGAR\n"
+  },
+  {
+    "id": 62,
+    "code": "\nTN68\n",
+    "location": "\nRTO Kumbakonam\n"
+  },
+  {
+    "id": 63,
+    "code": "\nTN69\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE,\nTUTICORIN\n"
+  },
+  {
+    "id": 64,
+    "code": "\nTN70\n",
+    "location": "\nRTO HOSUR\n"
+  },
+  {
+    "id": 65,
+    "code": "\nTN72\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE,\nTIRUNELVELI\n"
+  },
+  {
+    "id": 66,
+    "code": "\nTN73\n",
+    "location": "\nRegional Transport Office,\nRanipet\n"
+  },
+  {
+    "id": 67,
+    "code": "\nTN74\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE,\nNAGERCOIL\n"
+  },
+  {
+    "id": 68,
+    "code": "\nTN75\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE,\nMARTHANDAM\n"
+  },
+  {
+    "id": 69,
+    "code": "\nTN76\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE,\nTENKASI\n"
+  },
+  {
+    "id": 70,
+    "code": "\nTN77\n",
+    "location": "\nRTO, ATTUR\n"
+  },
+  {
+    "id": 71,
+    "code": "\nTN78\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE,\nDHARAPURAM\n"
+  },
+  {
+    "id": 72,
+    "code": "\nTN79\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE,\nSANKARANKOVIL\n"
+  },
+  {
+    "id": 73,
+    "code": "\nTN81\n",
+    "location": "\nRTO, TRICHY(EAST)\n"
+  },
+  {
+    "id": 74,
+    "code": "\nTN82\n",
+    "location": "\nRTO Mayiladuthurai\n"
+  },
+  {
+    "id": 75,
+    "code": "\nTN83\n",
+    "location": "\nRegional Transport Office,\nVaniyambadi\n"
+  },
+  {
+    "id": 76,
+    "code": "\nTN83M\n",
+    "location": "\nRegional Transport Office,\nTirupattur\n"
+  },
+  {
+    "id": 77,
+    "code": "\nTN84\n",
+    "location": "\nRTO, SRIVILLIPUTTUR\n"
+  },
+  {
+    "id": 78,
+    "code": "\nTN85\n",
+    "location": "\nRto Kundrathur\n"
+  },
+  {
+    "id": 79,
+    "code": "\nTN86\n",
+    "location": "\nRTO ERODE WEST\n"
+  },
+  {
+    "id": 80,
+    "code": "\nTN87\n",
+    "location": "\nSRIPERUMBUDUR\n"
+  },
+  {
+    "id": 81,
+    "code": "\nTN88\n",
+    "location": "\nRTO NAMAKKAL SOUTH\n"
+  },
+  {
+    "id": 82,
+    "code": "\nTN90\n",
+    "location": "\nRTO,SALEM(SOUTH)\n"
+  },
+  {
+    "id": 83,
+    "code": "\nTN91\n",
+    "location": "\nRTO, Chidhambram\n"
+  },
+  {
+    "id": 84,
+    "code": "\nTN92\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE,\nTHIRUCHENDUR\n"
+  },
+  {
+    "id": 85,
+    "code": "\nTN93\n",
+    "location": "\nMETTUR\n"
+  },
+  {
+    "id": 86,
+    "code": "\nTN94\n",
+    "location": "\nRTO Palani\n"
+  },
+  {
+    "id": 87,
+    "code": "\nTN95\n",
+    "location": "\nRTO, SIVAKASI\n"
+  },
+  {
+    "id": 88,
+    "code": "\nTN96\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE,\nKOVILPATTI\n"
+  },
+  {
+    "id": 89,
+    "code": "\nTN97\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE,\nARANI\n"
+  },
+  {
+    "id": 90,
+    "code": "\nTN99\n",
+    "location": "\nREGIONAL TRANSPORT OFFICE,\nCOIMBATORE (WEST)\n"
+  }
+]
